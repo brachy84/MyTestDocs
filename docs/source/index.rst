@@ -25,3 +25,9 @@ Contents
 Lumache has its documentation hosted on Read the Docs.
 With PR
 
+.. groovy:function:: itemStack.isEmpty()
+   
+   Checks if the item stack is empty.
+   
+   :return: if stack is empty
+   :rtype: boolean
